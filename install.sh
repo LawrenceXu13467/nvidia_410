@@ -38,3 +38,7 @@ sudo apt-get update && \
         sudo apt-get install nvinfer-runtime-trt-repo-ubuntu1804-5.0.2-ga-cuda10.0 \
         && sudo apt-get update \
         && sudo apt-get install -y --no-install-recommends libnvinfer-dev=5.0.2-1+cuda10.0
+        
+        
+pip3 install tensorflow-gpu
+pip3 install tensorflow
