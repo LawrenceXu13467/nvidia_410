@@ -41,4 +41,3 @@ sudo apt-get update && \
         
         
 pip3 install tensorflow-gpu
-pip3 install tensorflow
